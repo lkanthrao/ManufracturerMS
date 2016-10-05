@@ -13,7 +13,7 @@ spring:
         health-check-interval: 10s
    
   application:
-    name: manufacturer-mircoservice
+    name: manufacturer-microservice
     
 server:
   port: ${PORT:${SERVER_PORT:0}}
